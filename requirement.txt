@@ -1,0 +1,14 @@
+requirements.txt
+txt
+Copy code
+tk
+pyperclip
+tk is usually included with Python by default, but we list it here for completeness.
+pyperclip is used to copy the generated password to the clipboard.
+
+📦 How to Use
+Anyone cloning your project can install dependencies by running:
+
+bash
+Copy code
+pip install -r requirements.txt
